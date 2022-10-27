@@ -71,8 +71,18 @@ export const Navigator= styled.ul`
         width: 118px;
         height: 35px;
         font-size:20px; 
+        padding: 5px;
         background-color: #353644;
         border: solid 1px #353644;
     }
 
+`
+export const Animes = styled.div`
+    img{
+        margin-left: 10px;
+        width: 203px;
+        height: 310px;
+        outline: rgb(66, 153, 225) solid 1px 
+    }
+    
 `
